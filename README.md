@@ -9,19 +9,19 @@ In this project, I analyze the King County dataset and build a linear regression
 Below is a selection of my findings:
 
 ### Price clusters are isolated according to geographic area
-[![latlong.png](https://i.postimg.cc/B6c3V2RT/latlong.png)](https://postimg.cc/sQXbBGjx)
+[![1.png](https://i.postimg.cc/ZK3MJJwR/1.png)](https://postimg.cc/HVY221DD)
 
 ### Most transactions occur in May and fewest in January
-[![annual.png](https://i.postimg.cc/j5Vq9x2b/annual.png)](https://postimg.cc/d7BKZKGH)
+[![2.png](https://i.postimg.cc/LXnxwSqm/2.png)](https://postimg.cc/34Qj0PCq)
 
 ### Among homes of the same price, those with higher grade and sqfoot are the best deals
-[![grade.png](https://i.postimg.cc/3wGY2sBb/grade.png)](https://postimg.cc/yJ7MHr2F)
+[![5.png](https://i.postimg.cc/Fz0VXHhX/5.png)](https://postimg.cc/WqbkMjD5)
 
 ### Predictions close to actuals
-[![prediction.png](https://i.postimg.cc/GhMLRJtz/prediction.png)](https://postimg.cc/D8XkdGqb)
+[![3.png](https://i.postimg.cc/rwMQcxdn/3.png)](https://postimg.cc/Mv3ymcmV)
 
 ### Linear regression can explain 61% of the variation in price
-[![variables.png](https://i.postimg.cc/26CM3MXW/variables.png)](https://postimg.cc/4KFBSLG4)
+[![4.png](https://i.postimg.cc/pddC5vJK/4.png)](https://postimg.cc/k2kKLkZ5)
 
 
 
