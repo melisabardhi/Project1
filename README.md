@@ -1,9 +1,10 @@
 
 # Using Linear Regression to Predict Home Prices
 
-### Tools Used
+## Tools Used
 Python, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
 
+## Introduction
 In this project I analyze the King County dataset and build a linear regression model to predict home prices. I answer three questions:
 1. What parameters influence house prices the most, and how are they ranked in order of significance?
 2. During what month is the supply of homes sold the greatest?
